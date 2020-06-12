@@ -1,0 +1,38 @@
+*{
+	margin:0;
+	padding:0;}
+body{
+	margin:100;
+	padding:100;
+	font-family:sans-serif;
+	background:url(img4.jpg)no-repeat;
+	background-size:cover;
+	color:white;
+	text-align:center;
+}
+header,.main,footer{
+	background-origin:
+	width:90%;
+	max-width:1000px;
+	margin:20px auto;
+}
+header nav{
+	background-origin:; 
+	overflow:hidden;
+}
+header nav ul{
+	list-style:none; 
+}
+header nav ul li {
+	float:left;
+}
+header nav ul li a{
+	padding:10px 20px;
+	display:block; 
+	color:#FFF;
+	text-decoration:#45a7f1;
+}
+
+header nav ul li:hover{
+	background:purple;
+}

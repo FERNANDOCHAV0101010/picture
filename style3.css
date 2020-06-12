@@ -1,0 +1,14 @@
+*
+{
+	padding:;
+	margin:;
+}
+body{
+	margin:100;
+	padding:100;
+	font-family:sans-serif;
+	background:url(2.jpg)no-repeat;
+	background-size:cover;
+	color:white;
+	text-align:center;
+}
